@@ -13,7 +13,7 @@ class CarManager:
     def __init__(self):
         self.cars = []
         self.distance_covered = STARTING_MOVE_DISTANCE
-u
+
 
     def create_car(self):
         random_chance = randint(0,6)
